@@ -4,3 +4,5 @@
 /Makefile
 /sdl2_probe
 
+/.vs
+/out
